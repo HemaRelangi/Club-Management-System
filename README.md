@@ -5,12 +5,10 @@ This project aims to create a comprehensive club management system for a campus 
 
 **1. Student Module**
 
-    **Functionality:** 
-    
+    Functionality:
     Allows students to explore and access information about various clubs within the campus.
 
-    **Features:**
-    
+    Features:
         View club details and descriptions.
         Access information about upcoming events organized by clubs.
         Register for events they are interested in attending.
