@@ -12,9 +12,9 @@ Allows students to explore and access information about various clubs within the
 
 **Features:**
 
-    View club details and descriptions.
-    Access information about upcoming events organized by clubs.
-    Register for events they are interested in attending.
+View club details and descriptions.
+Access information about upcoming events organized by clubs.
+Register for events they are interested in attending.
 
 **2. Student Coordinator Module**
 
@@ -24,22 +24,22 @@ Designed for specific students designated as club managers or coordinators.
 
 **Features:**
     
-        Manage specific club activities and details.
-        Track club participation and engagement metrics.
-        Create and organize events within their respective clubs.
-        Send event proposals to the Faculty/Admin for approval.
+Manage specific club activities and details.
+Track club participation and engagement metrics.
+Create and organize events within their respective clubs.
+Send event proposals to the Faculty/Admin for approval.
 
 **3. Faculty/Admin Module**
 
 **Functionality:**
     
-    Reserved for faculty members or administrators who oversee the club management system.
+Reserved for faculty members or administrators who oversee the club management system.
 **Features:**
     
-    Create and manage clubs within the system.
-    Monitor club activities and manage membership.
-    Receive and review event proposals submitted by Student Coordinators.
-    Approve or deny event proposals based on provided details.
+Create and manage clubs within the system.
+Monitor club activities and manage membership.
+Receive and review event proposals submitted by Student Coordinators.
+Approve or deny event proposals based on provided details.
 
 **Technologies Used**
 
